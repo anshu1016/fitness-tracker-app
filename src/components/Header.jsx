@@ -69,7 +69,7 @@ export default function Header() {
           <Grid item xs={12} md={4}>
             <div style={{ display: "flex", justifyContent: "flex-end" }}>
               <Link
-                href="https://github.com/anshu1016"
+                href="https://github.com/anshu1016/fitness-tracker-app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={githubLinkStyle}
