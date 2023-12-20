@@ -1,0 +1,31 @@
+/* GoalsForm.css */
+
+.goals-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+    padding: 16px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .goals-form .MuiTextField-root {
+    margin-bottom: 16px;
+  }
+  
+  .goals-form .status-select {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  .goals-form .add-button {
+    background-color: #2196f3;
+    color: #fff;
+    &:hover {
+      background-color: #1565c0;
+    }
+  }
+  

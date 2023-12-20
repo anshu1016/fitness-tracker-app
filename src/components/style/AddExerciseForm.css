@@ -1,0 +1,25 @@
+/* AddExerciseForm.css */
+
+.exercise-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 16px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .exercise-form .MuiTextField-root,
+  .exercise-form .MuiFormControl-root {
+    margin-bottom: 16px;
+  }
+  
+  .exercise-form .add-button {
+    background-color: #2196f3;
+    color: #fff;
+    &:hover {
+      background-color: #1565c0;
+    }
+  }
+  
