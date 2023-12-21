@@ -1,6 +1,6 @@
-# Do Exercise App[https://fitness-tracker-app-six.vercel.app/] - Live App
+# [Do Exercise App](https://fitness-tracker-app-six.vercel.app/) - Live App
 
-# Backend Code [https://github.com/anshu1016/Fitness-Tracker-API]
+# [Backend Code](https://github.com/anshu1016/Fitness-Tracker-API) - Backend Code
 
 # Getting Started with Create React App
 
